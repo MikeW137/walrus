@@ -3,3 +3,10 @@
   float: right;
   background-color: yellow;
 }
+
+.column {
+  width: 29%;
+  float: left;
+  padding-left:30px;
+  padding-right: 30px;
+}
